@@ -10,7 +10,7 @@ Experienced Full Stack and WordPress Developer with a proven track record in bui
 * 🖥️  See my portfolio at [Portfolio](http://barkatullah.vercel.app/)
 * ✉️  You can contact me at [barkatullah.zx@gmail.com](mailto:barkatullah.zx@gmail.com)
 * 🚀  I'm currently working on [MediCarePLC](http://medicareplc.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning C
 * 🤝  I'm open to collaborating on Interesting Project
 * ⚡  I'm a quick learner and code lover
 
@@ -19,7 +19,7 @@ Experienced Full Stack and WordPress Developer with a proven track record in bui
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,js,react,nextjs,ts,redux,nodejs,firebase,mongodb,postgres,express,postman,docker,prisma,wordpress,php,figma,netlify,vercel,notion,py" />
+    <img src="https://skillicons.dev/icons?i=flutter,js,react,nextjs,ts,redux,nodejs,firebase,mongodb,postgres,express,postman,docker,prisma,wordpress,php,figma,netlify,vercel,notion,c" />
   </a>
 </p>
 
