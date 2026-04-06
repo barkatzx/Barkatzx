@@ -23,7 +23,7 @@ Experienced in building high-performance applications using Flutter, React, and 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c, cpp,js,react,nextjs,ts,redux,nodejs,express,go,fastapi,firebase,mongodb,postgres,mysql,supabase,postman,docker,prisma,flutter,linux,wordpress,php" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,react,nextjs,ts,redux,nodejs,express,go,fastapi,firebase,mongodb,postgres,mysql,supabase,postman,docker,prisma,flutter,linux,wordpress,php" />
   </a>
 </p>
 
