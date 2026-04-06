@@ -1,10 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Barkat Ullah
 ====================================================================================================================================
 
-Full Stack Developer | WordPress Expert
+Full Stack Engineer
 --------------------------------------
 
-Experienced Full Stack and WordPress Developer with a proven track record in building dynamic, user-centered web applications. Proficient in front-end technologies including HTML, CSS, and JavaScript, and skilled in modern frameworks like React. Backed by strong expertise in backend technologies such as Node.js and Express.js and extensive knowledge of MongoDB databases. Dedicated to crafting seamless, high-performance applications that deliver exceptional user experiences from front to back. Passionate about driving projects from concept to completion, emphasizing quality and innovation.
+Full Stack Developer specializing in Data Structures & Algorithms (DSA) with strong foundations in C, C++, and Python, grounded in solid Object-Oriented Programming (OOP) principles. Experienced in system design, scalable architecture, API design, and database modeling for production-grade applications.
+
+Proficient in backend engineering using Node.js, Express, FastAPI, and Golang, with expertise in designing efficient and secure services. Skilled in working with PostgreSQL, MySQL, and MongoDB, and leveraging modern tools such as Prisma, Supabase, and Neon for optimized data access and scalability.
+
+Experienced in building high-performance applications using Flutter, React, and Next.js, delivering clean, maintainable, and scalable end-to-end solutions with a strong focus on performance, reliability, and engineering best practices. 🚀💼
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Portfolio](http://barkatullah.vercel.app/)
@@ -19,7 +23,7 @@ Experienced Full Stack and WordPress Developer with a proven track record in bui
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flutter,js,react,nextjs,ts,redux,nodejs,firebase,mongodb,postgres,express,postman,docker,prisma,wordpress,php,figma,netlify,vercel,notion" />
+    <img src="https://skillicons.dev/icons?i=py,c, cpp,js,react,nextjs,ts,redux,nodejs,express,go,fastapi,firebase,mongodb,postgres,mysql,supabase,postman,docker,prisma,flutter,linux,wordpress,php" />
   </a>
 </p>
 
