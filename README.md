@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Barkat Ullah
 ====================================================================================================================================
 
-Full Stack Developer specializing in Data Structures & Algorithms (DSA) with strong foundations in C, C++, and Python, grounded in solid Object-Oriented Programming (OOP) principles. Experienced in system design, scalable architecture, API design, and database modeling for production-grade applications.
+Focused on mastering Data Structures & Algorithms (DSA) with strong programming fundamentals in C, C++, and Python, supported by solid Object-Oriented Programming (OOP) concepts. Emphasis on applying these fundamentals to system design, scalable architecture, API development, and efficient database design.
 
-Proficient in backend engineering using Node.js, Express, FastAPI, and Golang, with expertise in designing efficient and secure services. Skilled in working with PostgreSQL, MySQL, and MongoDB, and leveraging modern tools such as Prisma, Supabase, and Neon for optimized data access and scalability.
+Hands-on experience with backend technologies including Node.js, Express, FastAPI, and Golang, alongside database systems such as PostgreSQL, MySQL, and MongoDB. Regularly working with modern tools and platforms like Prisma, Supabase, and Neon to build scalable and well-structured data-driven applications.
 
-Experienced in building high-performance applications using Flutter, React, and Next.js, delivering clean, maintainable, and scalable end-to-end solutions with a strong focus on performance, reliability, and engineering best practices. 🚀💼
+Also focused on building performant applications using Flutter, React, and Next.js, with attention to clean architecture, maintainability, and end-to-end performance. 🚀
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Portfolio](http://barkatullah.vercel.app/)
