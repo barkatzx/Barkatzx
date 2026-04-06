@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Barkat Ullah
 ====================================================================================================================================
 
-Full Stack Engineer
---------------------------------------
-
 Full Stack Developer specializing in Data Structures & Algorithms (DSA) with strong foundations in C, C++, and Python, grounded in solid Object-Oriented Programming (OOP) principles. Experienced in system design, scalable architecture, API design, and database modeling for production-grade applications.
 
 Proficient in backend engineering using Node.js, Express, FastAPI, and Golang, with expertise in designing efficient and secure services. Skilled in working with PostgreSQL, MySQL, and MongoDB, and leveraging modern tools such as Prisma, Supabase, and Neon for optimized data access and scalability.
@@ -14,7 +11,7 @@ Experienced in building high-performance applications using Flutter, React, and 
 * 🖥️  See my portfolio at [Portfolio](http://barkatullah.vercel.app/)
 * ✉️  You can contact me at [barkatullah.zx@gmail.com](mailto:barkatullah.zx@gmail.com)
 * 🚀  I'm currently working on [MediCarePLC](http://medicareplc.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning C++
 * 🤝  I'm open to collaborating on Interesting Project
 * ⚡  I'm a quick learner and code lover
 
