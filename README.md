@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Barkat Ullah
 ====================================================================================================================================
 
-Focused on mastering Data Structures & Algorithms (DSA) with strong programming fundamentals in C, C++, and Python, supported by solid Object-Oriented Programming (OOP) concepts. Emphasis on applying these fundamentals to system design, scalable architecture, API development, and efficient database design.
+My technical knowledge spans core computer science fundamentals and modern application development. I have a fundamental grounding in Data Structures & Algorithms (DSA), with programming experience in C, C++, and Python, and a clear understanding of Object-Oriented Programming (OOP) concepts. These fundamentals guide my approach to system design, scalable architecture, API design, and database modeling.
 
-Hands-on experience with backend technologies including Node.js, Express, FastAPI, and Golang, alongside database systems such as PostgreSQL, MySQL, and MongoDB. Regularly working with modern tools and platforms like Prisma, Supabase, and Neon to build scalable and well-structured data-driven applications.
+I work with backend technologies such as Node.js, Express, FastAPI, and Golang, building structured and efficient services. My database experience includes PostgreSQL, MySQL, and MongoDB, along with practical use of tools like Prisma, Supabase, and Neon for modern data-driven applications.
 
-Also focused on building performant applications using Flutter, React, and Next.js, with attention to clean architecture, maintainability, and end-to-end performance. 🚀
+On the application side, I build performant solutions using Flutter, React, and Next.js, focusing on clean architecture, maintainability, and end-to-end performance. Overall, my knowledge centers on designing and implementing scalable, well-structured, and efficient software systems. 🚀
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Portfolio](http://barkatullah.vercel.app/)
